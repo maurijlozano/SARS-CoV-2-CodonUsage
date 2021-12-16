@@ -7,7 +7,7 @@ Supplementary material for the analysis of SARS-CoV-2 synonymous codon usage evo
 
 
 
-**Figure S2. Correspondence analysis of concatenated SARS-CoV-2 genes averaged by date and grouped by variant.** A, Alpha. B, Beta, G, Gamma. D, Delta.
+**Figure S2. Correspondence Analysis of concatenated SARS-CoV-2 genes averaged by date and grouped by variant.** A, Alpha. B, Beta, G, Gamma. D, Delta.
 ![Figure S2](FigS2.png)
 
 
@@ -15,19 +15,19 @@ Supplementary material for the analysis of SARS-CoV-2 synonymous codon usage evo
 ![Figure S3](FigS3.png)
 
 
-**Figure S4. Evolution of the average codon usage frequency for each codon over time with independent scales.** ACUFs were calculated for concatenated SARS-CoV-2 genes grouped by fortnight, and plotted using independent scales for each codon. Black points represent the ACUF for the SARS-CoV-2 from the time series dataset. Color points correspond to selected SARS-CoV-2 variants of interest: A (Alpha) orange, B (Beta) dark red, D (Delta) light green and G (Gamma) blue.
+**Figure S4. Evolution of the Average Codon Usage Frequency for each codon over time with independent scales.** ACUFs were calculated for concatenated SARS-CoV-2 genes grouped by fortnight, and plotted using independent scales for each codon. Black points represent the ACUF for the SARS-CoV-2 from the time series dataset. Color points correspond to selected SARS-CoV-2 variants of interest: A (Alpha) orange, B (Beta) dark red, D (Delta) light green and G (Gamma) blue.
 ![Figure S4](FigS4.png)
 
 
-**Figure S5. Correspondence analysis of ACUF for each SARS-CoV-2 ORF from the time-series dataset averaged by month.** The coding sequences corresponding to ORF1ab, S, M, N, E, ORF3a, ORF6, ORF7a , ORF7b, ORF8, and ORF10 were extracted from the SARS-CoV-2 time-series dataset, their ACUF were calculated, averaged by month, and CA was performed. A separated graphic for each ORF is shown. Light to dark blue colors indicate dates from Jan-2020 to Jun-2021. 
+**Figure S5. Correspondence Analysis of ACUF for each SARS-CoV-2 ORF from the time-series dataset averaged by month.** The coding sequences corresponding to ORF1ab, S, M, N, E, ORF3a, ORF6, ORF7a , ORF7b, ORF8, and ORF10 were extracted from the SARS-CoV-2 time-series dataset, their ACUF were calculated, averaged by month, and CA was performed. A separated graphic for each ORF is shown. Light to dark blue colors indicate dates from Jan-2020 to Jun-2021. 
 ![Figure S5](FigS5.png)
 
 
-**Figure S6. Correspondence analysis of codon usage frequencies for each SARS-CoV-2 ORF from Alpha, Beta, Gamma and Delta variants.** The coding sequences corresponding to ORF1ab, S, M, N, E, ORF3a, ORF6, ORF7a , ORF7b, ORF8, and ORF10 were extracted from the genomes of SARS-CoV-2 Alpha (A), Beta (B), Gamma (G), and Delta (D) variants, their codon usage frequencies were calculated and CA was performed. A separated graphic for each ORF is shown. Shapes indicate the different SARS-CoV-2 variants. Colors indicate date, from December 2020 (Dark blue) to July 2021 (light blue).
+**Figure S6. Correspondence Analysis of Codon Usage Frequencies for each SARS-CoV-2 ORF from Alpha, Beta, Gamma and Delta variants.** The coding sequences corresponding to ORF1ab, S, M, N, E, ORF3a, ORF6, ORF7a , ORF7b, ORF8, and ORF10 were extracted from the genomes of SARS-CoV-2 Alpha (A), Beta (B), Gamma (G), and Delta (D) variants, their codon usage frequencies were calculated and CA was performed. A separated graphic for each ORF is shown. Shapes indicate the different SARS-CoV-2 variants. Colors indicate date, from December 2020 (Dark blue) to July 2021 (light blue).
 ![Figure S6](FigS6.png)
 
 
-**Figure S7. Effective number of codons (ENC) for elevated proteins on each human tissue.** ENC values were calculated either, for the concatenated (A) or individual genes (B) corresponding to elevated proteins on each human tissue. In figure B (Boxplots) the middle lines represent medians, while the dots inside the boxes represent average ENC values.
+**Figure S7. Effective Number of Codons (ENC) for elevated proteins on each human tissue.** ENC values were calculated either, for the concatenated (A) or individual genes (B) corresponding to elevated proteins on each human tissue. In figure B (Boxplots) the middle lines represent medians, while the dots inside the boxes represent average ENC values.
 ![Figure S7](FigS7.png)
 
 
