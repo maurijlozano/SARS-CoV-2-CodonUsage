@@ -7,7 +7,7 @@ Supplementary material for the analysis of SARS-CoV-2 synonymous codon usage evo
 
 
 
-**Figure S2. Correspondence Analysis of concatenated SARS-CoV-2 genes averaged by date and grouped by variant.** A, Alpha. B, Beta, G, Gamma. D, Delta.
+**Figure S2. Correspondence Analysis of concatenated SARS-CoV-2 genes averaged by date and grouped by variant.** A, Alpha; B, Beta; G, Gamma; D, Delta. Dark to light blue colors indicate dates from January 2021 to July 2021.
 ![Figure S2](FigS2.png)
 
 
@@ -31,30 +31,30 @@ Supplementary material for the analysis of SARS-CoV-2 synonymous codon usage evo
 ![Figure S7](FigS7.png)
 
 
-**Figure S8. Evolution of ENC values calculated for concatenated SARS-CoV-2 genes over time.** In the Boxplots, the middle lines represent medians, while the dots inside the boxes represent average ENC values. The dotted line at 45.45 average indicates the average ENC value for February 2020. Asterisks represent significant differences with February 2020. P values were calculated using Wilcoxon rank sum test (\*  <  0.05, \** < 0.01, \*** < 0.001, \**** < 0.0001).
+**Figure S8. Evolution of ENC values calculated for concatenated SARS-CoV-2 genes over time.** In the Boxplots, the middle lines represent medians, while the dots inside the boxes represent average ENC values. The dotted line at 45.45 indicates the average ENC value for February 2020. Asterisks represent significant differences with February 2020. P values were calculated using Wilcoxon rank sum test (\*  <  0.05, \** < 0.01, \*** < 0.001, \**** < 0.0001).
 ![Figure S8](FigS8.png)
 
 
-**Figure S9. Differences in ENC between SARS-CoV-2 variants.** ENC values calculated for concatenated SARS-CoV-2 genes of genomes selected by variant. A (Alpha), B (Beta), G (Gamma), and D (Delta). In the Boxplots, the middle lines represent median, while the dots inside the boxes represent the average ENC values. Some Outliers were left out of the figure for clarity. Asterisks represent significant differences. P values were calculated using Wilcoxon rank sum test (\*  <  0.05, \** < 0.01, \*** < 0.001, \**** < 0.0001) 
+**Figure S9. Differences in ENC between SARS-CoV-2 variants.** ENC values calculated for concatenated SARS-CoV-2 genes of genomes selected by variant. A (Alpha), B (Beta), G (Gamma), and D (Delta). The dotted line at 45.45 indicates the average ENC value for February 2020. In the Boxplots, the middle lines represent the median,  while the dots inside the boxes represent the average ENC values. Some outliers were left out of the figure for clarity. Asterisks represent significant differences. P values were calculated using Wilcoxon rank sum test (\*  <  0.05, \** < 0.01, \*** < 0.001, \**** < 0.0001) 
 ![Figure S9](FigS9.png)
 
 
-**Figure S10. Differences in ENC between SARS-CoV-2 variants for each ORF.** ENC values were calculated for individual SARS-CoV-2 ORFs for a selection of genomes representing different variants. A (Alpha), B (Beta), G (Gamma), and D (Delta). In the Boxplots, the middle line represents medians, while the dots inside the boxes represent average ENC values. Asterisks represent significant differences. P values were calculated using Wilcoxon rank sum test (\*  <  0.05, \** < 0.01, \*** < 0.001, \**** < 0.0001).
+**Figure S10. Differences in ENC between SARS-CoV-2 variants for each ORF.** ENC values were calculated for individual SARS-CoV-2 ORFs for a selection of genomes representing different variants. A (Alpha) orange, B (Beta) dark red, D (Delta) light green and G (Gamma) blue, black represents Feb-20 isolates. In the Boxplots, the middle line represents the median, while the dots inside the boxes represent average ENC values. Asterisks represent significant differences. P values were calculated using Wilcoxon rank sum test (\*  <  0.05, \** < 0.01, \*** < 0.001, \**** < 0.0001).
 ![Figure S10](FigS10.png)
 
 
-**Figure S11. CAI values for concatenated SARS-CoV-2 genes calculated using highly expressed proteins from different human tissues as reference.** CAI values were calculated for concatenated SARS-CoV-2 genes belonging to February 2020 isolates, using reference sets corresponding to highly expressed proteins in different human tissues. A1 and A2) CAI values calculated using Wavg. B1 and B2) CAI values calculated using Wconcat. A2 and B2) Comparison between CAI for human genes (dark pink) and SARS-CoV-2 (Cyan) on each tissue. CAI values corresponding to Human [Lei et al.] were calculated using WLei and all the concatenated Human (A1 and B1) or SARS-CoV-2 genes (A2 and B2). In the Boxplots, the middle lines represent medians, while the dots inside the boxes represent average CAI values. The dotted line indicates the SARS-CoV-2 CAI values calculated using all the coding sequences from the human genome as reference set. Asterisks represent significant differences. P values were calculated using Wilcoxon rank sum test (\*  <  0.05, \** < 0.01, \*** < 0.001, \**** < 0.0001).
+**Figure S11. CAI values for concatenated SARS-CoV-2 genes calculated using highly expressed proteins from different human tissues as reference.** CAI values were calculated for concatenated SARS-CoV-2 genes belonging to February 2020 isolates, using reference sets corresponding to highly expressed proteins in different human tissues. A1 and A2) CAI values calculated using Wavg. B1 and B2) CAI values calculated using Wconcat. A2 and B2) Comparison between CAI for human genes (dark pink) and SARS-CoV-2 (Cyan) on each tissue. CAI values corresponding to Human [Lei et al.] were calculated using WLei and all the concatenated Human (A1 and B1) or SARS-CoV-2 genes (A2 and B2). In the Boxplots, the middle lines represent the median, while the dots inside the boxes represent average CAI values. The dotted line indicates the SARS-CoV-2 CAI values calculated using all the coding sequences from the human genome as reference set. Asterisks represent significant differences. P values were calculated using Wilcoxon rank sum test (\*  <  0.05, \** < 0.01, \*** < 0.001, \**** < 0.0001).
 ![Figure S11](FigS11.png)
 
 
-**Figure S12.  Evolution of CAI values calculated for concatenated SARS-CoV-2 genes over time. CAI values were calculated for concatenated SARS-CoV-2 genes using reference sets corresponding to highly expressed proteins in different human tissues.** A figures) CAI values calculated using a W obtained as the average of Wi for each gene on the reference set. B figures) CAI values calculated using W obtained from the concatenated genes of the reference set. In the Boxplots, the middle lines represent medians, while the dots inside the boxes represent average CAI values. Dotted line: average CAI value for February 2020. Asterisks represent significant differences with February 2020. P values were calculated using Wilcoxon rank sum test (\*  <  0.05, \** < 0.01, \*** < 0.001, \**** < 0.0001).
+**Figure S12.  Evolution of CAI values calculated for concatenated SARS-CoV-2 genes over time. CAI values were calculated for concatenated SARS-CoV-2 genes using reference sets corresponding to highly expressed proteins in different human tissues.** A figures) CAI values calculated using Wavg. B figures) CAI values calculated using Wconcat. In the Boxplots, the middle lines represent medians, while the dots inside the boxes represent average CAI values. Dotted line: average CAI value for February 2020. Asterisks represent significant differences with February 2020. P values were calculated using Wilcoxon rank sum test (\*  <  0.05, \** < 0.01, \*** < 0.001, \**** < 0.0001).
 
 
 **Figure S13. Evolution of ENC over time for the California dataset.** ENC was calculated for concatenated SARS-CoV-2 genes and averaged by month. A) ENC calculated for the complete dataset. Black line, Evolution of average ENC values over time. Red line, total number of coding sequences (CDS) analyzed for each month. B) Left, ENC values for selected variants of interest. Right, percentage of coding sequences belonging to each variant.
 ![Figure S13](FigS13.png)
 
 
-**Figure S14. Average CAI values for the ten most represented variants in the California dataset from Jan-2020 to Sep-2021.** CAI values were calculated for concatenated SARS-CoV-2 genes using W for humans obtained from Lei et al. 2020. SARS-CoV-2 isolates are named following the Pangolin lineage classification. Alpha (B.1.1.7), Gamma (P.1), Delta (B.1.617.2). In the Boxplots, the middle lines represent median, while the dots inside the boxes represent average CAI values. 
+**Figure S14. Average CAI values for the ten most represented variants in the California dataset from Jan-2020 to Sep-2021.** CAI values were calculated for concatenated SARS-CoV-2 genes using W for humans obtained from Lei et al. 2020. SARS-CoV-2 isolates are named following the Pangolin lineage classification. Alpha (B.1.1.7), Gamma (P.1), Delta (B.1.617.2). In the Boxplots, the middle lines represent the median, while the dots inside the boxes represent average CAI values. 
 ![Figure S14](FigS14.png)
 
 
