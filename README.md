@@ -1,4 +1,8 @@
 # SARS-CoV-2-CodonUsage
+Link to the full article on Virology: [DOI: 10.1016/j.virol.2022.01.011](https://doi.org/10.1016/j.virol.2022.01.011)
+
+*50 days free access link*: [Analysis of SARS-CoV-2 synonymous codon usage evolution throughout the COVID-19 pandemic. Mogro et al  2022. ](https://authors.elsevier.com/a/1eXk-9j6whZWw)
+
 Supplementary material for the analysis of SARS-CoV-2 synonymous codon usage evolution throughout the COVID-19 pandemic.
 
 ## Figures
